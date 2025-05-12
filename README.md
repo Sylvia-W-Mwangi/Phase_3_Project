@@ -24,10 +24,10 @@ The Logistic Model for the H1N1 flu had an overall accuracy of 82% and AUC of 0.
 The Logistic Regression Model for the seasonal flu had and accuracy of 78% and AUC of 0.86
 
 Important Features for H1N1 Flu vaccine prediction:
-![Alt text](attachments\h1n1_features.png)
+![Alt text](attachments/h1n1_features.png)
 
 Important Features for Seasonal Flu vaccine prediction:
-![Alt text](attachments\seasonal_features.png)
+![Alt text](attachments/seasonal_features.png)
 
 ### CONCLUSION
 Public awareness campaigns to effectively communicate the safety and risks of the vaccines to build public trust. Recognizing the observed higher uptake among older individuals, targeted outreach and communication strategies should be specifically developed and implemented to engage younger demographics and increase their understanding of the benefits and safety of both flu vaccinations.
